@@ -1,0 +1,14 @@
+C:\C# god morgen\bin\Debug\net9.0\C# god morgen.exe
+C:\C# god morgen\bin\Debug\net9.0\C# god morgen.deps.json
+C:\C# god morgen\bin\Debug\net9.0\C# god morgen.runtimeconfig.json
+C:\C# god morgen\bin\Debug\net9.0\C# god morgen.dll
+C:\C# god morgen\bin\Debug\net9.0\C# god morgen.pdb
+C:\C# god morgen\obj\Debug\net9.0\C# god morgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# god morgen\obj\Debug\net9.0\C# god morgen.AssemblyInfoInputs.cache
+C:\C# god morgen\obj\Debug\net9.0\C# god morgen.AssemblyInfo.cs
+C:\C# god morgen\obj\Debug\net9.0\C# god morgen.csproj.CoreCompileInputs.cache
+C:\C# god morgen\obj\Debug\net9.0\C# god morgen.dll
+C:\C# god morgen\obj\Debug\net9.0\refint\C# god morgen.dll
+C:\C# god morgen\obj\Debug\net9.0\C# god morgen.pdb
+C:\C# god morgen\obj\Debug\net9.0\C# god morgen.genruntimeconfig.cache
+C:\C# god morgen\obj\Debug\net9.0\ref\C# god morgen.dll
