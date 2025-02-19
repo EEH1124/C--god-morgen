@@ -12,10 +12,10 @@ class Program
             1. Get the current hour.
             2. Create a dictionary with greetings.
             3. Check the time range:
-               - If morning (5-12), use "Good morning!"
-               - If afternoon (12-17), use "Good afternoon!"
-               - If evening (17-21), use "Good evening!"
-               - Otherwise, use "Good night!"
+            If morning (5-12), use "Good morning!"
+            If afternoon (12-17), use "Good afternoon!"
+             If evening (17-21), use "Good evening!"
+             Otherwise, use "Good night!"
             4. Print the selected greeting.
             */
 
